@@ -1,0 +1,2 @@
+Esse repositório contém todos os arquivos de exercícios de programação que resolvi.
+Os exercícios foram propostos pelo professor de POO e devidamente corrigidos por um ambiente de teste chamado vpl, com casos de teste montados pelo professor.
